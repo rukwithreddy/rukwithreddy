@@ -3,11 +3,15 @@
 
 <h1 align="center">Rukwith Reddy Boothpur</h1>
 
+<img src="./about-me.gif?raw=true" height = "100px" align="right">
 
  **boothpurrukwithreddy@gmail.com**
  
  **Computer Science Engineering Student**  
  **Vasavi College of Engineering**
+ 
+
+
 
 ---
 ![Visitor Count](https://komarev.com/ghpvc/?username=rukwithreddy&color=blue&style=flat-square)
